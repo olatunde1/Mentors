@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Manrope&family=Nunito+Sans&display=swap');
+
+body{
+    background-color:#0A0F23;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Nunito Sans', sans-serif;
+    color: #ffffff;
+
+}
+.masterClass{
+    margin-top: 131px;
+    text-align: center;
+}
+.masterClass h1{
+    font-weight: 800;
+    font-style: normal;
+    font-size: 74px;
+    line-height: 84px;
+}
+
+.masterClass p{
+    font-style: normal;
+    
+}
